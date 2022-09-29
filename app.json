@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "My app",
+    "slug": "my-app",
+    "extra": {
+      "eas": {
+        "projectId": "d6d908a6-623b-44a6-a031-36162e7cede1"
+      }
+    },
+    "android": {
+      "package": "com.mitchelldouglas.myapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.mitchelldouglas.myapp"
+    }
+  }
+}
